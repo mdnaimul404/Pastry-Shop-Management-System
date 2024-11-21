@@ -1,4 +1,4 @@
-# Pastry-Shop-Management-System
+# Pastry Shop Management System
 
 #### This Pastry Shop Management System is built using DBMS concepts, designed to efficiently manage pastry shop operations. It integrates SQL, Normalization, ER Diagrams, and Schema Diagrams to ensure optimized data handling.
 
